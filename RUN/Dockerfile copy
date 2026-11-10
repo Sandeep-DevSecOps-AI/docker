@@ -3,4 +3,5 @@ LABEL course="Docker"\
       author="Join Devops"\ 
       email="test.devops.com"
 
-# Label instruction : adds the metadata to the image. it use for filter
+# Label instruction : adds the metadata to the image. it used for filtering the container while searching the image in the docker hub. 
+#It is not mandatory to use the label instruction in the dockerfile.
