@@ -1,0 +1,6 @@
+FROM almalinux:9
+LABEL course="Docker"\
+      author="Join Devops"\ 
+      email="test.devops.com"
+
+# Label instruction : adds the metadata to the image. it use for filter
